@@ -1,4 +1,4 @@
-# HealthFiles Manager System (Enterprise Edition)
+# 🏥 HealthFiles Manager System (Enterprise Edition)
 
 A robust, cloud-native application designed to digitize and manage health records across 60 Wilayas (States) in Algeria. This system provides strict Role-Based Access Control (RBAC), Arabic language support, and automated reporting.
 

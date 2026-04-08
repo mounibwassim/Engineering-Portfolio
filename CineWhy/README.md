@@ -1,4 +1,4 @@
-# CINEWHY
+# 🎬 CINEWHY
 
 **CineWhy** is a next-generation, premium cinematic discovery and recommendation engine. Powered by intelligent semantic data inferences and an ultra-chic 3D neon user interface, CineWhy pushes the boundaries of how users find and explore movies.
 

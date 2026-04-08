@@ -1,4 +1,4 @@
-# CardioAI 🩺
+# 🩺 CardioAI 🩺
 ## Professional AI-Driven Cardiovascular Intelligence System
 
 **CardioAI** is a state-of-the-art clinical decision support platform designed to revolutionize cardiovascular risk stratification. By combining advanced machine learning algorithms with high-fidelity visualization and professional medical reporting, CardioAI empowers cardiologists with precise, data-driven insights.

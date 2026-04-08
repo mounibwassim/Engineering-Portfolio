@@ -1,4 +1,4 @@
-# LibraTrack - Library Management System
+# 📚 LibraTrack - Library Management System
 
 LibraTrack is a digital solution designed to replace traditional paper-based library systems. It automates library operations for educational institutions, providing a streamlined experience for both students and administrators.
 

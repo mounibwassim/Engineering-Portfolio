@@ -1,4 +1,4 @@
-# RemindMe - Intelligent & Secure Mobile Task Manager
+# 📅 RemindMe - Intelligent & Secure Mobile Task Manager
 
 **RemindMe** is a feature-rich, cross-platform mobile application designed to organize personal tasks with a focus on data privacy and local intelligence. Built using Python and KivyMD, it leverages industry-standard encryption protocols and a local SQLite database to ensure data integrity without reliance on cloud services.
 
