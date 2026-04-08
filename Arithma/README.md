@@ -1,0 +1,123 @@
+<div align="center">
+  <h1>Arithma</h1>
+  <p><em>Developed by M.W</em></p>
+  <p><strong>Version:</strong> 1.26.1 | <strong>Build Status:</strong> Stable</p>
+</div>
+
+---
+
+> **Arithma** is an enterprise-grade, high-performance conversational AI platform specialized in mathematical problem-solving, interactive learning, and step-by-step intuitive explanations. Engineered for scale, it leverages a sophisticated full-stack architecture to deliver zero-latency mathematical rendering alongside a powerful administrative backend.
+
+## 🚀 Deep Feature Matrix
+
+| Feature Category | User Features | Admin Features |
+| :--- | :--- | :--- |
+| **Conversational AI** | Context-aware AI chat, step-by-step math breakdowns, workflow builders. | Granular control over AI model selection and tool permissions. |
+| **Mathematical Rendering** | High-fidelity LaTeX & KaTeX rendering for complex equations and formulas. | Real-time preview of mathematical components. |
+| **Internationalization** | Multi-language support (`next-intl`) for localized mathematical assistance. | Centralized localization configuration. |
+| **Authentication** | Secure email and OAuth sign-ins via Better Auth. | Role-based access control (RBAC) and user management. |
+| **Media & Files** | Drag-and-drop image uploads for visual problem solving. | Storage bucket configuration and asset management. |
+| **Workflows** | Interactive node-based workflow builder for complex prompt chains. | Monitor and enforce workflow execution limits. |
+| **Dashboard** | Personalized chat history, preferences, and shareable sessions. | Super-Admin panel with system analytics and user metrics. |
+
+---
+
+## 🏗 Tech Stack & Architecture
+
+Arithma is built on a modern, type-safe Next.js foundation, utilizing the best tools in the React ecosystem.
+
+### Frontend
+- **Framework:** Next.js 16 (App Router) with Turbopack for lightning-fast HMR.
+- **Language:** TypeScript
+- **State Management:** Zustand & SWR
+- **Internationalization:** `next-intl`
+
+### UI / Styling
+- **Styling:** Tailwind CSS v4
+- **Components:** Radix UI Primitives & Framer Motion
+- **Math Rendering:** KaTeX (`rehype-katex`, `remark-math`)
+
+### Backend & AI Providers
+- **SDK:** Vercel AI SDK
+- **Models:**
+  - **Google Gemini:** Primary reasoning engine.
+  - **Groq (Cloud):** High-speed Llama 3.3/3.1 models.
+  - **Ollama (Local):** Local-first Llama 3.2/3.0 models for private development.
+- **Authentication:** Better Auth (Secure, Edge-compatible)
+
+### Database
+- **Provider:** Supabase (PostgreSQL)
+- **ORM:** Drizzle ORM (Type-safe schema modeling and migrations)
+
+---
+
+## 🔐 Environment Variables
+
+To run Arithma locally, create a `.env` file in the root directory and configure the following essential variables:
+
+| Variable Name | Description | Required |
+| :--- | :--- | :--- |
+| `GOOGLE_GENERATIVE_AI_API_KEY` | Your Google Gemini API key to power the AI mathematical reasoning. | Yes |
+| `GROQ_API_KEY` | API key for Groq Cloud (Llama 3.3/3.1). | Yes (if using Groq) |
+| `OPENAI_COMPATIBLE_DATA` | JSON configuration for dynamic OpenAI-compatible providers (Ollama/Groq). | Yes |
+| `NEXT_PUBLIC_DEFAULT_MODEL` | The default model ID to use across the application. | No |
+| `POSTGRES_URL` | The direct PostgreSQL connection string (Supabase) for Drizzle ORM. | Yes |
+| `NEXT_PUBLIC_SUPABASE_URL` | The public URL of your Supabase deployment project. | Yes |
+| `NEXT_PUBLIC_SUPABASE_ANON_KEY` | The anonymous publishable key for your Supabase project. | Yes |
+| `BETTER_AUTH_SECRET` | A secure, random string utilized by Better Auth for hashing sessions. | Yes |
+| `BETTER_AUTH_URL` | The base URL of the application (e.g., `http://localhost:3000`). | Yes |
+
+> **Note:** Do NOT commit your `.env` file to version control.
+
+---
+
+## 💻 Local Development Guide
+
+Follow these steps to get your local development environment up and running smoothly.
+
+### 1. Install Dependencies
+Quickly install the required packages using `pnpm`.
+```bash
+pnpm install
+```
+
+### 2. Push Database Schema
+Ensure your `.env` variables are correctly configured, then push the Drizzle ORM schemas directly to your Supabase PostgreSQL instance.
+```bash
+pnpm db:push
+```
+
+### 3. Start the Development Server
+Launch the Next.js local server with Turbopack enabled.
+```bash
+pnpm dev
+```
+Navigate to [http://localhost:3000](http://localhost:3000) to view the application in your browser.
+
+> **Important:** You must run `pnpm dev` in your terminal to start the local server before clicking the links below.
+
+---
+
+## 🛡 Admin Panel Access
+
+Arithma features a robust Super-Admin interface to manage users, features, and system configurations.
+
+### Generating the Default Admin Account
+Before accessing the admin panel, you must inject your admin credentials into the database. We provide a utility script to accomplish this safely.
+
+1. Verify or customize your login credentials in `scripts/add-admin.ts`.
+2. Execute the injection script to create the account:
+   ```bash
+   npx tsx scripts/add-admin.ts
+   ```
+
+### Accessing the Dashboard
+Once the account is created, you can access the secure portal locally:
+- **URL:** [http://localhost:3000/admin](http://localhost:3000/admin)
+- Log in utilizing the credentials generated by the script to gain full Super-Admin privileges.
+
+---
+
+<div align="center">
+  <p>Engineered with precision for advanced mathematical computing.</p>
+</div>
