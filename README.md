@@ -4,7 +4,8 @@
 
 I am a software engineer focused on building high-performance, intelligent systems across AI, backend, and full-stack domains. This repository serves as a central showcase for my professional projects, demonstrating expertise in scalable architecture, machine learning integration, and secure systems design.
 
-> **Note**: This repository contains demonstration files and documentation for each project. The full source code for these implementations is maintained in private repositories and can be shared upon request for technical review.
+> [!IMPORTANT]
+> **Technical Portfolio Strategy**: This repository showcases high-fidelity demonstrations and architectural documentation for 11 diverse software systems. Due to the advanced technical complexity, proprietary AI logic, and sensitive data models (Healthcare, Security, IAM), the full source code for these implementations is maintained in **private repositories**. This balance ensures the protection of high-value intellectual property while allowing for professional technical review upon request.
 
 ---
 
