@@ -6,6 +6,11 @@
 
 RestoSmart AI is a **next-generation, multilingual feedback management system** designed for high-performance restaurants. It automates feedback collection, analyzes sentiment using AI, secures data with a robust **JWT-based RBAC (Role-Based Access Control)** system, and provides actionable insights via a premium real-time dashboard.
 
+## Demo & Live Preview
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open-green?style=for-the-badge)](https://resto-ai-analytics.vercel.app)
+[![Watch Demo](https://img.shields.io/badge/YouTube-Watch-red?style=for-the-badge&logo=youtube)](https://youtu.be/Sq8YaBC-GmQ?si=6dJMRNa8TW7lxvCh)
+
 ---
 
 ## ✨ Premium Features

@@ -5,6 +5,10 @@
 
 SecureGate is a high-performance, enterprise-grade User Management System engineered with **CodeIgniter**. Designed for scalability and security, it provides a centralized gateway for managing authentication, user lifecycles, and administrative oversight with a premium, modern SaaS aesthetic.
 
+## Demo & Live Preview
+
+[![Watch Demo](https://img.shields.io/badge/YouTube-Watch-red?style=for-the-badge&logo=youtube)](https://youtu.be/Iu7IFzhikZU)
+
 ---
 
 ## 💎 Core Value Propositions

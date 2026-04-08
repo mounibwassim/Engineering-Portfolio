@@ -2,6 +2,11 @@
 
 > Intelligent Urban Traffic Congestion Prediction System
 
+## Demo & Live Preview
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open-green?style=for-the-badge)](https://citylens-xiakfazguafmg7wpvmlnud.streamlit.app/)
+[![Watch Demo](https://img.shields.io/badge/YouTube-Watch-red?style=for-the-badge&logo=youtube)](LIVE_LINK)
+
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red?style=flat-square&logo=streamlit)
 ![ML](https://img.shields.io/badge/ML-5%20Models-green?style=flat-square)

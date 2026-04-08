@@ -3,6 +3,11 @@
 > **IMPORTANT: Local Execution Recommended**
 > SortIQ uses a powerful 7-Robot AI architecture (YOLOv8 + TensorFlow) that requires more memory than a standard free tier provides. For a fast, stable experience, run the system locally.
 
+## Demo & Live Preview
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open-green?style=for-the-badge)](https://sort-iq-five.vercel.app)
+[![Watch Demo](https://img.shields.io/badge/YouTube-Watch-red?style=for-the-badge&logo=youtube)](LIVE_LINK)
+
 ![SortIQ](logo.png)
 
 ---

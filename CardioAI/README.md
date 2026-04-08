@@ -3,6 +3,11 @@
 
 **CardioAI** is a state-of-the-art clinical decision support platform designed to revolutionize cardiovascular risk stratification. By combining advanced machine learning algorithms with high-fidelity visualization and professional medical reporting, CardioAI empowers cardiologists with precise, data-driven insights.
 
+## Demo & Live Preview
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open-green?style=for-the-badge)](https://cardio-ai-delta.vercel.app)
+[![Watch Demo](https://img.shields.io/badge/YouTube-Watch-red?style=for-the-badge&logo=youtube)](https://youtu.be/-ccMlwwXZw0)
+
 ---
 
 ### 🌟 Core Capabilities

@@ -2,6 +2,11 @@
 
 LibraTrack is a digital solution designed to replace traditional paper-based library systems. It automates library operations for educational institutions, providing a streamlined experience for both students and administrators.
 
+## Demo & Live Preview
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open-green?style=for-the-badge)](https://youtu.be/hQ5wlf-Gfn0)
+[![Watch Demo](https://img.shields.io/badge/YouTube-Watch-red?style=for-the-badge&logo=youtube)](https://youtu.be/hQ5wlf-Gfn0)
+
 ## 🚀 Key Features
 
 ### For Students

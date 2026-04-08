@@ -2,6 +2,11 @@
 
 **RemindMe** is a feature-rich, cross-platform mobile application designed to organize personal tasks with a focus on data privacy and local intelligence. Built using Python and KivyMD, it leverages industry-standard encryption protocols and a local SQLite database to ensure data integrity without reliance on cloud services.
 
+## Demo & Live Preview
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open-green?style=for-the-badge)](LIVE_LINK)
+[![Watch Demo](https://img.shields.io/badge/YouTube-Watch-red?style=for-the-badge&logo=youtube)](YOUTUBE_LINK)
+
 ---
 
 ## 🚀 Key Features

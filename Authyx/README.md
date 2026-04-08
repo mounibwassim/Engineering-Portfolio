@@ -4,6 +4,11 @@
 
 Authyx is a professional-grade authentication and identity system built using **Modern Component Architecture**. It demonstrates how to leverage industry-standard UI frameworks while architecting a secure, custom-built "Engine" for data and logic.
 
+## Demo & Live Preview
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open-green?style=for-the-badge)](https://authyx.vercel.app)
+[![Watch Demo](https://img.shields.io/badge/YouTube-Watch-red?style=for-the-badge&logo=youtube)](https://youtu.be/LByF6lxyZH8)
+
 ---
 
 ## 🏠 System Architecture: The "Custom Home" Analogy

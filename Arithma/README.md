@@ -8,6 +8,11 @@
 
 > **Arithma** is an enterprise-grade, high-performance conversational AI platform specialized in mathematical problem-solving, interactive learning, and step-by-step intuitive explanations. Engineered for scale, it leverages a sophisticated full-stack architecture to deliver zero-latency mathematical rendering alongside a powerful administrative backend.
 
+## Demo & Live Preview
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open-green?style=for-the-badge)](https://arithma-chi.vercel.app)
+[![Watch Demo](https://img.shields.io/badge/YouTube-Watch-red?style=for-the-badge&logo=youtube)](https://youtu.be/MR-uNQF0wDA)
+
 ## 🚀 Deep Feature Matrix
 
 | Feature Category | User Features | Admin Features |

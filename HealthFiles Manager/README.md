@@ -2,6 +2,11 @@
 
 A robust, cloud-native application designed to digitize and manage health records across 60 Wilayas (States) in Algeria. This system provides strict Role-Based Access Control (RBAC), Arabic language support, and automated reporting.
 
+## Demo & Live Preview
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open-green?style=for-the-badge)](https://health-files-management-system.vercel.app)
+[![Watch Demo](https://img.shields.io/badge/YouTube-Watch-red?style=for-the-badge&logo=youtube)](https://youtu.be/_USy-8rEUZI?si=p-j1QIe0i0WFl1_5)
+
 ---
 
 ## 🚀 Key Enterprise Features (New)
