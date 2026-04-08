@@ -120,7 +120,6 @@ I am a software engineering student and developer passionate about the intersect
 ## Contact
 
 - **GitHub**: [mounibwassim](https://github.com/mounibwassim)
-- **LinkedIn**: [LinkedIn Profile Placeholder]
 
 ---
 © 2026 Engineering Portfolio
