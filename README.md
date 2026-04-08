@@ -50,7 +50,7 @@ Cloud-native health record management system engineered for nationwide scalabili
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Open-green?style=for-the-badge)](https://health-files-management-system.vercel.app)
 [![Watch Demo](https://img.shields.io/badge/YouTube-Watch-red?style=for-the-badge&logo=youtube)](https://youtu.be/_USy-8rEUZI?si=p-j1QIe0i0WFl1_5)
 - **Technologies**: React 18, Vite, Node.js, Express, PostgreSQL, JWT, Bcrypt.
-- **Project Folder**: [./HealthFiles Manager](./HealthFiles Manager/)
+- **Project Folder**: [./HealthFiles Manager](./HealthFiles-Manager)
 
 ### CineWhy
 Next-generation cinematic discovery and recommendation engine featuring semantic data inferences and a premium 3D neon UI.
