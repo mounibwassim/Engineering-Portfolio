@@ -40,7 +40,7 @@ AI-powered waste sorting and detection platform utilizing a multi-robot architec
 ### HealthFiles
 Cloud-native health record management system engineered for nationwide scalability with multi-tier management and Arabic localization.
 - **Technologies**: React 18, Vite, Node.js, Express, PostgreSQL, JWT, Bcrypt.
-- **Project Folder**: [./cloud-health-files](./cloud-health-files)
+- **Project Folder**: [./cloud-health-files](./HealthFiles Manager/).
 
 ### RestoSmart
 Multilingual customer support automation system for high-performance restaurants featuring sentiment analysis and actionable insights.
