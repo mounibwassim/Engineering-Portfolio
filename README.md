@@ -37,7 +37,7 @@ AI-powered waste sorting and detection platform utilizing a multi-robot architec
 - **Live Demo**: [SortIQ Frontend](https://sort-iq-five.vercel.app/)
 - **Project Folder**: [./SortIQ](./SortIQ)
 
-### HealthFiles
+### HealthFiles Manager
 Cloud-native health record management system engineered for nationwide scalability with multi-tier management and Arabic localization.
 - **Technologies**: React 18, Vite, Node.js, Express, PostgreSQL, JWT, Bcrypt.
 - **Project Folder**: [./HealthFiles Manager](./HealthFiles Manager/).
